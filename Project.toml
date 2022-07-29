@@ -1,0 +1,13 @@
+name = "demo4"
+uuid = "608f6be3-5c12-4eb6-866c-c8de14a12c52"
+authors = ["Abolfazl Ziaeemehr <a.ziaeemehr@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6.5"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
